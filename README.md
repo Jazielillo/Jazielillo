@@ -6,6 +6,8 @@ I mostly work with React, Next.js and TypeScript on the frontend, and Node.js, E
 
 I'm always learning across the full stack and building things that work in production, not just in theory.
 
+🌐 Portfolio: [jazielheredia.portfolio](https://portfoliojazielheredia.vercel.app)
+
 ---
 
 ## 🛠 Tools & Tech
